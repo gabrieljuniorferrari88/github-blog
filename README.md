@@ -23,7 +23,7 @@
 
 ## 🚧 Projeto
 
-Live Preview: ...
+Live Preview: https://github-blog-ebon.vercel.app/
 
 Figma: https://www.figma.com/file/qvpkgNLDB0zcUO7Q96PQgg/GitHub-Blog-(Community)
 
