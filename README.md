@@ -11,9 +11,9 @@
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=112131&labelColor=3294F8" alt="License">
   
-  <img src="https://img.shields.io/github/forks/gabrieljuniorferrari88/macos-portfolio?label=forks&message=MIT&color=112131&labelColor=3294F8" alt="Forks">
+  <img src="https://img.shields.io/github/forks/gabrieljuniorferrari88/github-blog?label=forks&message=MIT&color=112131&labelColor=3294F8" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/gabrieljuniorferrari88/macos-portfolio?label=stars&message=MIT&color=112131&labelColor=3294F8 " alt="Stars">
+  <img src="https://img.shields.io/github/stars/gabrieljuniorferrari88/github-blog?label=stars&message=MIT&color=112131&labelColor=3294F8 " alt="Stars">
 </p>
 
 ## 🚀 Tecnologias
